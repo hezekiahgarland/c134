@@ -1,0 +1,19 @@
+
+body{
+    background-size: cover;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status,#number_of_Object, #start_model
+{
+font-size: 18px;
+}
+canvas
+{
+    margin-top: 30px;
+}
